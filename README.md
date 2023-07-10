@@ -7,21 +7,26 @@
 </br>
 
 ## 📙 I'm Studying...
-<img src="https://img.shields.io/badge/JAVA-0062AD?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">  
+<img src="https://img.shields.io/badge/JAVA-0062AD?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
 
-  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+
+</br>
 
 ## 🔎 About Me
-🔑 잘 설계된 논리를 통해 **양질의 사용자 경험**을 제공할 수 있도록 노력합니다.  
-🙆‍♂️ 이해가 쉽고, **소통이 용이한 코드**를 위해 고민합니다.  
-📳 물과 같이 **융통성 있는 소통**이 강점입니다.  
-✈ 실력을 키우는 것에 재미를 느껴 **성장이 곧 인생의 의미**라고 생각합니다.
+🔑 소프트웨어의 가치는 높은 유지보수성에서 온다고 생각합니다.  
 
-### 🧲 Contact
-🙋‍♂️ Resume : https://www.notion.so/BE-URL-fc3ae059f2654fbdb76bc0a6db590e98  
-📖 Blog : https://grow-myself.tistory.com/  
+🙆‍♂️ 높은 유지보수성의 뿌리는 좋은 아키텍처의 구성에 있다고 느낍니다.
+
+✈ 코드란 결국 하나의 문서이며, 독해가 잘될수록 더 좋은 코드라고 생각합니다.
+
+🥨 변수 이름, 함수 이름의 중요성에 대해 인지하고 있으며, 최대한 잘 지어보려 노력합니다.
+
+📳 유지보수에 좋은 코드 및 개발 방식을 익히기 위해, 최근 DDD 및 TDD에 대해 학습하며 적용해보고 있습니다.
+
+</br>
+
+### 🧲 Contact  
 📝 Email : deae670@daum.net
